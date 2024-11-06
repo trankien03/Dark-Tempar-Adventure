@@ -290,7 +290,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88b07183237ffa849a5c309a4921febd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackDamage: 15
+  attackDamage: 20
   Knockback: {x: 1, y: 1}
 --- !u!1 &5946333728057760420
 GameObject:
@@ -608,7 +608,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   walkSpeed: 5
   runSpeed: 10
-  jumpImpluse: 18
+  jumpImpluse: 15
   airWalkSpeed: 8
   _isMoving: 0
   _IsRunning: 0
@@ -856,7 +856,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88b07183237ffa849a5c309a4921febd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackDamage: 200
+  attackDamage: 15
   Knockback: {x: 1, y: 1}
 --- !u!1 &7522628803654180036
 GameObject:
@@ -1147,7 +1147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88b07183237ffa849a5c309a4921febd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  attackDamage: 20
+  attackDamage: 25
   Knockback: {x: 1, y: 1}
 --- !u!1 &8728182259851014223
 GameObject:
