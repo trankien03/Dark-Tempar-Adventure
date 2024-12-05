@@ -371,10 +371,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: GameplayUI
       objectReference: {fileID: 0}
-    - target: {fileID: 2369195103693363514, guid: 4d3342bc5bdd43a4fb7bebe1a813dada, type: 3}
-      propertyPath: enemyDeafeatingCondition
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 6343289840356285807, guid: 4d3342bc5bdd43a4fb7bebe1a813dada, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -7439,10 +7435,6 @@ PrefabInstance:
     - target: {fileID: 5998589266654274960, guid: 47aa5e99f075ce14196d98d14e848365, type: 3}
       propertyPath: remainingTime
       value: 60
-      objectReference: {fileID: 0}
-    - target: {fileID: 8489893945922734744, guid: 47aa5e99f075ce14196d98d14e848365, type: 3}
-      propertyPath: _health
-      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 8949344832934126318, guid: 47aa5e99f075ce14196d98d14e848365, type: 3}
       propertyPath: m_LocalPosition.x
